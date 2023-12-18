@@ -1,0 +1,7 @@
+#lista{
+    -fx-padding: 20;
+    -fx-pref-width: Region.USE_COMPUTED_SIZE;
+    -fx-pref-height: Region.USE_COMPUTED_SIZE;
+    -fx-max-width: Region.USE_PREF_SIZE;
+    -fx-max-height: Region.USE_PREF_SIZE;
+}
